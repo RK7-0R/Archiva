@@ -1,0 +1,724 @@
+C:\Users\richt\JournalApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\richt\JournalApp\bin\Debug\net9.0\appsettings.json
+C:\Users\richt\JournalApp\bin\Debug\net9.0\JournalApp.staticwebassets.runtime.json
+C:\Users\richt\JournalApp\bin\Debug\net9.0\JournalApp.staticwebassets.endpoints.json
+C:\Users\richt\JournalApp\bin\Debug\net9.0\JournalApp.exe
+C:\Users\richt\JournalApp\bin\Debug\net9.0\JournalApp.deps.json
+C:\Users\richt\JournalApp\bin\Debug\net9.0\JournalApp.runtimeconfig.json
+C:\Users\richt\JournalApp\bin\Debug\net9.0\JournalApp.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\JournalApp.pdb
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Humanizer.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\richt\JournalApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\richt\JournalApp\obj\Debug\net9.0\JournalApp.csproj.AssemblyReference.cache
+C:\Users\richt\JournalApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\richt\JournalApp\obj\Debug\net9.0\JournalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richt\JournalApp\obj\Debug\net9.0\JournalApp.AssemblyInfoInputs.cache
+C:\Users\richt\JournalApp\obj\Debug\net9.0\JournalApp.AssemblyInfo.cs
+C:\Users\richt\JournalApp\obj\Debug\net9.0\JournalApp.csproj.CoreCompileInputs.cache
+C:\Users\richt\JournalApp\obj\Debug\net9.0\JournalApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\richt\JournalApp\obj\Debug\net9.0\JournalApp.RazorAssemblyInfo.cache
+C:\Users\richt\JournalApp\obj\Debug\net9.0\JournalApp.RazorAssemblyInfo.cs
+C:\Users\richt\JournalApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\richt\JournalApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\richt\JournalApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\richt\JournalApp\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\richt\JournalApp\obj\Debug\net9.0\scopedcss\bundle\JournalApp.styles.css
+C:\Users\richt\JournalApp\obj\Debug\net9.0\scopedcss\projectbundle\JournalApp.bundle.scp.css
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\s63brq0hzz-b9sayid5wm.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\zvnv7zooyh-61n19gt1b8.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\ofq8l9a19y-xtxxf3hu2r.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\7pcr81hcv8-bqjiyaj88i.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\8xaxoyd287-c2jlpeoesf.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\2bp1kt6wvz-erw9l3u2r3.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\p9r95p6y9f-aexeepp0ev.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\3yqhxf3c1n-d7shbmvgxk.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\ieuooehd7t-ausgxo2sd3.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\orqfeqaa01-k8d9w2qqmf.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\1p1n55oy3b-cosvhxvwiu.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\6vr31zmszn-ub07r2b239.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\dxx8sl7g1i-fvhpjtyr6v.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\il27ro50zk-b7pk76d08c.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\wj3x2bol0l-fsbi9cje9m.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\zggareh19r-rzd6atqjts.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\dj2bcs2u5s-ee0r1s7dh0.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\32ok8fxi7z-dxx9fxp4il.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\p4xiac6n5d-jd9uben2k1.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\vlcnvuekmc-khv3u5hwcm.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\3tx2002ygg-r4e9w2rdcm.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\zxzwd6a9fk-lcd1t2u6c8.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\97vvf626ms-c2oey78nd0.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\t2sj302v5u-tdbxkamptv.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\1qtb19zpwg-j5mq2jizvt.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\z3oara9el0-06098lyss8.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\5fipw0nd3j-nvvlpmu67g.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\bcwx08tuwv-s35ty4nyc5.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\5hmnhd42zu-pj5nd1wqec.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\as50788oez-46ein0sx1k.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\y3a3nn9h44-v0zj4ognzu.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\me6e3v2dop-37tfw0ft22.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\didsg5tyxi-hrwsygsryq.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\55bb1jg7hv-pk9g2wxc8p.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\1rekq7i9ar-ft3s53vfgj.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\bg4g1evj29-6cfz1n2cew.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\91g9v1jv8q-6pdc2jztkx.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\0nb6avgkix-493y06b0oq.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\ljs4ayhjmr-iovd86k7lj.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\le6afaq7vl-vr1egmr9el.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\g8qdrr0jjj-kbrnm935zg.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\oa8kqoj9ej-jj8uyg4cgr.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\ukdvgxuj6j-y7v9cxd14o.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\st3czyh730-notf2xhcfb.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\6f87ku7oza-h1s4sie4z3.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\8ek7s3hrh1-63fj8s7r0e.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\y5ngogdjxg-0j3bgjxly4.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\w7xccal5lk-47otxtyo56.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\uhcjp607c2-4v8eqarkd7.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\i115l2ej5e-356vix0kms.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\ng1im4d3x4-83jwlth58m.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\new94mhmxn-mrlpezrjn3.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\d2mmes0h9d-lzl9nlhx6b.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\uluebpjc2p-ag7o75518u.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\j8l8t82rn2-x0q3zqp4vz.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\stbhs6zkqg-0i3buxo5is.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\9sbo0rp91l-o1o13a6vjx.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\chyoc4vqm7-ttgo8qnofa.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\17xaqgbtsm-2z0ns9nrw6.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\yikkdo4r09-muycvpuwrr.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\24oebrx9uk-87fc7y1x7t.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\fkbweytavd-mlv21k5csn.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\dyxz8p7ngo-gtw88btm15.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\compressed\2xdqfu8oi3-gtw88btm15.gz
+C:\Users\richt\JournalApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\richt\JournalApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\richt\JournalApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\richt\JournalApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\richt\JournalApp\obj\Debug\net9.0\JournalApp.csproj.Up2Date
+C:\Users\richt\JournalApp\obj\Debug\net9.0\JournalApp.dll
+C:\Users\richt\JournalApp\obj\Debug\net9.0\refint\JournalApp.dll
+C:\Users\richt\JournalApp\obj\Debug\net9.0\JournalApp.pdb
+C:\Users\richt\JournalApp\obj\Debug\net9.0\JournalApp.genruntimeconfig.cache
+C:\Users\richt\JournalApp\obj\Debug\net9.0\ref\JournalApp.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\appsettings.Development.json
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\appsettings.json
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\JournalApp.staticwebassets.runtime.json
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\JournalApp.staticwebassets.endpoints.json
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\JournalApp.exe
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\JournalApp.deps.json
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\JournalApp.runtimeconfig.json
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\JournalApp.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\JournalApp.pdb
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Azure.Core.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Azure.Identity.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Humanizer.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.Build.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\NuGet.Common.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\System.ClientModel.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\System.CodeDom.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\JournalApp.csproj.AssemblyReference.cache
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\JournalApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\JournalApp.AssemblyInfoInputs.cache
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\JournalApp.AssemblyInfo.cs
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\JournalApp.csproj.CoreCompileInputs.cache
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\JournalApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\JournalApp.RazorAssemblyInfo.cache
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\JournalApp.RazorAssemblyInfo.cs
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\scopedcss\bundle\JournalApp.styles.css
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\scopedcss\projectbundle\JournalApp.bundle.scp.css
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\s63brq0hzz-b9sayid5wm.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\zvnv7zooyh-61n19gt1b8.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\ofq8l9a19y-xtxxf3hu2r.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\7pcr81hcv8-bqjiyaj88i.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\8xaxoyd287-c2jlpeoesf.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\2bp1kt6wvz-erw9l3u2r3.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\p9r95p6y9f-aexeepp0ev.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\3yqhxf3c1n-d7shbmvgxk.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\ieuooehd7t-ausgxo2sd3.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\orqfeqaa01-k8d9w2qqmf.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\1p1n55oy3b-cosvhxvwiu.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\6vr31zmszn-ub07r2b239.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\dxx8sl7g1i-fvhpjtyr6v.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\il27ro50zk-b7pk76d08c.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\wj3x2bol0l-fsbi9cje9m.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\zggareh19r-rzd6atqjts.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\dj2bcs2u5s-ee0r1s7dh0.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\32ok8fxi7z-dxx9fxp4il.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\p4xiac6n5d-jd9uben2k1.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\vlcnvuekmc-khv3u5hwcm.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\3tx2002ygg-r4e9w2rdcm.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\zxzwd6a9fk-lcd1t2u6c8.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\97vvf626ms-c2oey78nd0.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\t2sj302v5u-tdbxkamptv.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\1qtb19zpwg-j5mq2jizvt.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\z3oara9el0-06098lyss8.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\5fipw0nd3j-nvvlpmu67g.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\bcwx08tuwv-s35ty4nyc5.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\5hmnhd42zu-pj5nd1wqec.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\as50788oez-46ein0sx1k.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\y3a3nn9h44-v0zj4ognzu.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\me6e3v2dop-37tfw0ft22.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\didsg5tyxi-hrwsygsryq.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\55bb1jg7hv-pk9g2wxc8p.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\1rekq7i9ar-ft3s53vfgj.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\bg4g1evj29-6cfz1n2cew.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\91g9v1jv8q-6pdc2jztkx.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\0nb6avgkix-493y06b0oq.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\ljs4ayhjmr-iovd86k7lj.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\le6afaq7vl-vr1egmr9el.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\g8qdrr0jjj-kbrnm935zg.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\oa8kqoj9ej-jj8uyg4cgr.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\ukdvgxuj6j-y7v9cxd14o.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\st3czyh730-notf2xhcfb.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\6f87ku7oza-h1s4sie4z3.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\8ek7s3hrh1-63fj8s7r0e.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\y5ngogdjxg-0j3bgjxly4.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\w7xccal5lk-47otxtyo56.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\uhcjp607c2-4v8eqarkd7.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\i115l2ej5e-356vix0kms.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\ng1im4d3x4-83jwlth58m.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\new94mhmxn-mrlpezrjn3.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\d2mmes0h9d-lzl9nlhx6b.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\uluebpjc2p-ag7o75518u.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\j8l8t82rn2-x0q3zqp4vz.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\stbhs6zkqg-0i3buxo5is.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\9sbo0rp91l-o1o13a6vjx.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\chyoc4vqm7-ttgo8qnofa.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\17xaqgbtsm-2z0ns9nrw6.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\yikkdo4r09-muycvpuwrr.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\24oebrx9uk-87fc7y1x7t.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\fkbweytavd-mlv21k5csn.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\dyxz8p7ngo-gtw88btm15.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\compressed\2xdqfu8oi3-gtw88btm15.gz
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\staticwebassets.build.json
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\staticwebassets.development.json
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\JournalApp.csproj.Up2Date
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\JournalApp.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\refint\JournalApp.dll
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\JournalApp.pdb
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\JournalApp.genruntimeconfig.cache
+D:\Documents\Coding Projects\In Progress\JournalApp\obj\Debug\net9.0\ref\JournalApp.dll
