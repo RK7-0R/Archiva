@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace JournalApp.Pages;
+namespace Archiva.Pages;
 
 public class IndexModel : PageModel
 {

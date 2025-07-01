@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Coding Projects\\In Progress\\JournalApp\\JournalApp.csproj": {}
+    "D:\\Documents\\Coding Projects\\In Progress\\Archiva\\JournalApp.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Coding Projects\\In Progress\\JournalApp\\JournalApp.csproj": {
+    "D:\\Documents\\Coding Projects\\In Progress\\Archiva\\JournalApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Coding Projects\\In Progress\\JournalApp\\JournalApp.csproj",
+        "projectUniqueName": "D:\\Documents\\Coding Projects\\In Progress\\Archiva\\JournalApp.csproj",
         "projectName": "JournalApp",
-        "projectPath": "D:\\Documents\\Coding Projects\\In Progress\\JournalApp\\JournalApp.csproj",
+        "projectPath": "D:\\Documents\\Coding Projects\\In Progress\\Archiva\\JournalApp.csproj",
         "packagesPath": "C:\\Users\\richt\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Coding Projects\\In Progress\\JournalApp\\obj\\",
+        "outputPath": "D:\\Documents\\Coding Projects\\In Progress\\Archiva\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

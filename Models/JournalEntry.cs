@@ -1,4 +1,4 @@
-namespace JournalApp.Models
+namespace Archiva.Models
 {
     public class JournalEntry
     {

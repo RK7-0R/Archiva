@@ -1,4 +1,4 @@
-using JournalApp.Data;
+using Archiva.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

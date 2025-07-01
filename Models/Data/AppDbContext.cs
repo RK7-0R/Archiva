@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using JournalApp.Models;
+using Archiva.Models;
 
-namespace JournalApp.Data
+namespace Archiva.Data
 {
     public class AppDbContext : DbContext
     {

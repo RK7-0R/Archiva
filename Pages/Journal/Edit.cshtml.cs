@@ -6,16 +6,16 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using JournalApp.Data;
-using JournalApp.Models;
+using Archiva.Data;
+using Archiva.Models;
 
-namespace JournalApp.Pages_Journal
+namespace Archiva.Pages_Journal
 {
     public class EditModel : PageModel
     {
-        private readonly JournalApp.Data.AppDbContext _context;
+        private readonly Archiva.Data.AppDbContext _context;
 
-        public EditModel(JournalApp.Data.AppDbContext context)
+        public EditModel(Archiva.Data.AppDbContext context)
         {
             _context = context;
         }

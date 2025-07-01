@@ -5,16 +5,16 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
-using JournalApp.Data;
-using JournalApp.Models;
+using Archiva.Data;
+using Archiva.Models;
 
-namespace JournalApp.Pages_Journal
+namespace Archiva.Pages_Journal
 {
     public class IndexModel : PageModel
     {
-        private readonly JournalApp.Data.AppDbContext _context;
+        private readonly Archiva.Data.AppDbContext _context;
 
-        public IndexModel(JournalApp.Data.AppDbContext context)
+        public IndexModel(Archiva.Data.AppDbContext context)
         {
             _context = context;
         }
