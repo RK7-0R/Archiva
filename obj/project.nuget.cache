@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2CJuxAF7Hb8=",
+  "dgSpecHash": "/JeeUUuy7jE=",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Coding Projects\\In Progress\\Archiva\\JournalApp.csproj",
+  "projectFilePath": "D:\\Documents\\Coding Projects\\In Progress\\Archiva\\Archiva.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\richt\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\richt\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

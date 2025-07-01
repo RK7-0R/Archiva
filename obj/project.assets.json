@@ -8013,9 +8013,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Coding Projects\\In Progress\\Archiva\\JournalApp.csproj",
-      "projectName": "JournalApp",
-      "projectPath": "D:\\Documents\\Coding Projects\\In Progress\\Archiva\\JournalApp.csproj",
+      "projectUniqueName": "D:\\Documents\\Coding Projects\\In Progress\\Archiva\\Archiva.csproj",
+      "projectName": "Archiva",
+      "projectPath": "D:\\Documents\\Coding Projects\\In Progress\\Archiva\\Archiva.csproj",
       "packagesPath": "C:\\Users\\richt\\.nuget\\packages\\",
       "outputPath": "D:\\Documents\\Coding Projects\\In Progress\\Archiva\\obj\\",
       "projectStyle": "PackageReference",
