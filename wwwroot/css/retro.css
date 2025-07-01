@@ -1,39 +1,40 @@
-/* === Typography === */
 
-/* Body text uses VT323 for hacker/terminal vibe */
+.nav-header {
+  font-size: 20px !important;
+  font-family: 'VT323', monospace !important; /* same as body */
+  font-weight: normal;
+  color: #00ff00 !important; /* classic terminal green */
+}
+.nav-header:hover {
+  color: #00ff00 !important; /* optional hover match */
+}
+
+.hero-title {
+  font-family: 'Orbitron', sans-serif !important;
+  font-size: 2.5rem;
+  color: #0ff !important;
+  letter-spacing: 0.08em;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+}
+
+.styled-header {
+  font-family: 'VT323', sans-serif !important;
+  color: #00ff00; !important;
+  font-size: 16px; /* matches body text size */
+  letter-spacing: 0.05em;
+  font-weight: 700;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
 body {
   font-family: 'VT323', monospace !important;
-  background-color: #000;         /* Matrix-style black */
-  color: #00ff00;                 /* Terminal green */
   font-size: 16px;
+  color: #00ff00;
+  background-color: #000;
   line-height: 1.5;
   margin: 0;
   padding: 1rem;
 }
-
-/* Headers use Orbitron */
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Orbitron', sans-serif !important;
-  font-weight: 700;
-  color: #0ff;                    /* Bright cyan */
-  letter-spacing: 0.05em;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-}
-
-/* Large text (e.g. hero banners, footer logos) */
-.large-text {
-  font-family: 'Orbitron', sans-serif;
-  font-weight: 900;
-  font-size: 3rem;
-  color: #0ff;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  margin: 2rem 0 0;
-}
-
-/* === Navbar Styling === */
-
-.navbar {
-  background-color: #000 !important;
-  border-bottom: 2px sol
