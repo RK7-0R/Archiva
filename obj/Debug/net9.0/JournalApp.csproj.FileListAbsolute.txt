@@ -631,7 +631,6 @@ D:\Documents\Coding Projects\In Progress\Archiva\obj\Debug\net9.0\rjimswa.dswa.c
 D:\Documents\Coding Projects\In Progress\Archiva\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 D:\Documents\Coding Projects\In Progress\Archiva\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
 D:\Documents\Coding Projects\In Progress\Archiva\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-D:\Documents\Coding Projects\In Progress\Archiva\obj\Debug\net9.0\compressed\s63brq0hzz-b9sayid5wm.gz
 D:\Documents\Coding Projects\In Progress\Archiva\obj\Debug\net9.0\compressed\zvnv7zooyh-61n19gt1b8.gz
 D:\Documents\Coding Projects\In Progress\Archiva\obj\Debug\net9.0\compressed\ofq8l9a19y-xtxxf3hu2r.gz
 D:\Documents\Coding Projects\In Progress\Archiva\obj\Debug\net9.0\compressed\8xaxoyd287-c2jlpeoesf.gz
@@ -699,7 +698,6 @@ D:\Documents\Coding Projects\In Progress\Archiva\obj\Debug\net9.0\compressed\stb
 D:\Documents\Coding Projects\In Progress\Archiva\obj\Debug\net9.0\compressed\9sbo0rp91l-m9qm4tazc0.gz
 D:\Documents\Coding Projects\In Progress\Archiva\obj\Debug\net9.0\compressed\17xaqgbtsm-jjsuc0puko.gz
 D:\Documents\Coding Projects\In Progress\Archiva\obj\Debug\net9.0\compressed\yikkdo4r09-9vr69e8ynj.gz
-D:\Documents\Coding Projects\In Progress\Archiva\obj\Debug\net9.0\compressed\9jch0mec65-ten7z6t8se.gz
 D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\appsettings.Development.json
 D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\appsettings.json
 D:\Documents\Coding Projects\In Progress\JournalApp\bin\Debug\net9.0\JournalApp.staticwebassets.runtime.json
@@ -1088,3 +1086,5 @@ D:\Documents\Coding Projects\In Progress\Archiva\obj\Debug\net9.0\refint\Journal
 D:\Documents\Coding Projects\In Progress\Archiva\obj\Debug\net9.0\JournalApp.pdb
 D:\Documents\Coding Projects\In Progress\Archiva\obj\Debug\net9.0\JournalApp.genruntimeconfig.cache
 D:\Documents\Coding Projects\In Progress\Archiva\obj\Debug\net9.0\ref\JournalApp.dll
+D:\Documents\Coding Projects\In Progress\Archiva\obj\Debug\net9.0\compressed\9jch0mec65-ilp1w2n14d.gz
+D:\Documents\Coding Projects\In Progress\Archiva\obj\Debug\net9.0\compressed\s63brq0hzz-2pzjh75jmi.gz
